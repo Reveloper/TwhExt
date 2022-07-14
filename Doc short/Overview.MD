@@ -8,7 +8,7 @@ Basicly you should use two things:
 * Tonhub Connect for interaction with user's wallet. 
 * Tonhub Link Generator for Tonhub extensions who genarate installation link.
 
-See [Getting start](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/Getting%20start.md) for more details.
+See [Getting started](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/Getting%20start.md) for more details.
 
 
 ## Expected user flow for installing extension
