@@ -35,7 +35,7 @@ See [Metadata headers](https://developers.tonhub.com/docs/metadata-headers) sect
 
 ## Generate a URL link to your app as Tonhub extension
 
-You can create links to your app as an Tonhub extension with [Tonhub Link Generator](https://tonwhales.com/tools/link). Also you can validate your metadata headers with this tool as it allows you to preview extension's: 
+You can create links to your app as an Tonhub extension with [Tonhub Link Generator](https://developers.tonhub.com/docs/tonhub-link-generator). Also you can validate your metadata headers with this tool as it allows you to preview extension's: 
 - Title
 - Description
 - Theme Color
