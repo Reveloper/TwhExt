@@ -16,7 +16,7 @@ See [Getting started](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/
 1. User scans extension's QR-code or clicks on the link frob your app.
 2. User approves extension installation in Tonhub.
 3. User follow steps with sign agreements, donates and so on.
-4. User got your app in TonHub's extenstions list.
+4. User got your app in Tonhub's extenstions list.
 
 ![inst_user_flow_numbered](https://user-images.githubusercontent.com/39581753/179036305-cde12e06-f3cb-4cf0-a274-6c4554a7ad8b.png)
 
@@ -39,7 +39,7 @@ Use cases with Tonhub extenstion:
 
 
 
-- Display common information about your app in TonHub.
+- Display common information about your app in Tonhub.
 - Quick redirect user from Tonhub to your app.
 - Get and display user's wallet adress.
 
