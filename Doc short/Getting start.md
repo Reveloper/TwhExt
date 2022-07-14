@@ -1,13 +1,13 @@
 # Getting start
 
-## Step by step configure _TonHub extension_ for your app
+## Step by step configure _Tonhub extension_ for your application
 
-* Create [Remote](doc:tonhub-remote-connector) connector.
-* Create session via [connector](/docs/tonhub-remote-connector#creating-a-connector).
-* Get instalation link for your app from Link Generator. 
-* Create [Local](doc:tonhub-local-connector) connector for operations when running as extension.
-* Add the necessary meta tags into your app's head section
-* Use session for request [transactions](/docs/tonhub-remote-connector#requesting-transaction) or [signatures](/docs/tonhub-remote-connector#requesting-signature).
+1. Create [Remote connector](https://developers.tonhub.com/docs/tonhub-remote-connector).
+2. Create [session](https://developers.tonhub.com/docs/tonhub-remote-connector#starting-a-new-session) via connector.
+3. Get instalation link for your application from Tonhub [Link Generator](https://tonwhales.com/tools/link) or Sandbox [Link Generator](https://sandbox.tonwhales.com/tools/link). 
+4. Create [Local connector](https://developers.tonhub.com/docs/tonhub-local-connector) for operations when running as extension.
+5. Add the necessary [meta tags](https://github.com/Reveloper/TwhExt/edit/main/Doc%20short/Getting%20start.md#add-the-necessary-meta-tags-into-your-apps-head-section) into your app's head section
+6. Use session for request [transactions](/docs/tonhub-remote-connector#requesting-transaction) or [signatures](/docs/tonhub-remote-connector#requesting-signature).
 
 
 
