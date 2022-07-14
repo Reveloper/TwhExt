@@ -15,7 +15,7 @@ See [Getting start](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/Ge
 
 1. User scans extension's QR-code or clicks on the link frob your app.
 2. User approves extension installation in Tonhub.
-3. User follow steps with sign agreements, donates and e.t.c.
+3. User follow steps with sign agreements, donates and so on.
 4. User got your app in TonHub's extenstions list.
 
 ![inst_user_flow_numbered](https://user-images.githubusercontent.com/39581753/179036305-cde12e06-f3cb-4cf0-a274-6c4554a7ad8b.png)
