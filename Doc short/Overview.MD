@@ -27,7 +27,7 @@ As a result your app's extension will be available on Tonhub app's main screen i
 Use cases with Tonhub extenstion:
 
 
-- Sign and revoke media files such as text, photo and e.t.c.
+- Sign and revoke media files such as text, picture and so on.
 
 ![sign_user_case](https://user-images.githubusercontent.com/39581753/179052450-ff36666d-d610-47b1-94e4-57cfe314d4ae.png)
 
