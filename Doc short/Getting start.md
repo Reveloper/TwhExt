@@ -1,4 +1,4 @@
-# Getting start
+# Getting started
 
 ## Step by step configure _Tonhub extension_ for your application
 
