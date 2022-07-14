@@ -31,7 +31,7 @@ Configure your Tonhub extension's appearance using well-known tags:
     <meta name="application-name" content="Tonhub"/>
 </html>
 ```
-See [Metadata headers](doc:metadata-headers) section for more details. 
+See [Metadata headers](https://developers.tonhub.com/docs/metadata-headers) section for more details. 
 
 ## Generate a URL link to your app as Tonhub extension
 
