@@ -23,10 +23,24 @@ Basicly you should use two things:
 
 As a result your app's extension will be available on Tonhub app's main screen in a list in any time. 
 Use cases with Tonhub extenstion:
-* Display common information about your app in TonHub.
-* Quick redirect user from Tonhub to your app.
-* Get and display user's wallet adress.
-* Sign and revoke media files such as text, photo and e.t.c.
-![35ded50-Frame_8_zipped](https://user-images.githubusercontent.com/39581753/178467022-13c6b783-ed3d-485b-9330-d7d9524d4320.png)
-* Make your custom transactions.
-![35ded50-Frame_7](https://user-images.githubusercontent.com/39581753/178466535-707bdc9c-2b17-436b-aca6-4d3487df75cd.png)
+
+
+- Sign and revoke media files such as text, photo and e.t.c.
+
+![sign_user_case](https://user-images.githubusercontent.com/39581753/179052450-ff36666d-d610-47b1-94e4-57cfe314d4ae.png)
+
+
+
+-  Make your custom transactions.
+
+![transaction_user_case](https://user-images.githubusercontent.com/39581753/179052390-2c801211-9656-4ff2-b0c9-32b9bf51a405.png)
+
+
+
+- Display common information about your app in TonHub.
+- Quick redirect user from Tonhub to your app.
+- Get and display user's wallet adress.
+
+## Capabilities Example extension
+
+Try [Capabilities Example](https://tonhub.com/app/te6cckEBAgEAMAABAUABAFRodHRwczovL2FwcHMudG9uaHViLmNvbS9hcHBzL2V4YW1wbGVzL2Z1bGySeowu) for [Tonhub](https://developers.tonhub.com/docs/beta-apps) or Capabilities Example for [Sandbox](https://developers.tonhub.com/docs/beta-apps).
