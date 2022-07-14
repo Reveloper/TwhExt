@@ -17,9 +17,10 @@
 Configure your Tonhub extension's appearance using well-known tags: 
 - Title
 - Description 
+- Theme color
 - Logo 
 - Icon 
-- Theme color
+
 
 ```
 <!DOCTYPE html>
@@ -38,6 +39,8 @@ You can create links to your app as an Tonhub extension with [Tonhub Link Genera
 - Title
 - Description
 - Theme Color
-- Logo/Icon image and generated from image blurhash show before Image has loaded 
+- Logo
+- Icon image 
+- Blurhash generated from image show before Image has loaded 
 
-<img width="919" alt="1 - gettingstarted" src="https://user-images.githubusercontent.com/39581753/178587512-df558e86-2746-4dd5-97c8-e7ad37d8c100.png">
+<img width="919" alt="1 - gettingstarted" src="https://user-images.githubusercontent.com/39581753/179059354-c2656e9d-890c-4075-9f16-c7b09ced7680.png">
