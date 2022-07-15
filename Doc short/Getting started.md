@@ -1,13 +1,13 @@
 # Getting started
 
-## Step by step configure _Tonhub extension_ for your application
+## Step by step configure the _Tonhub extension_ for your application
 
-1. Create [Remote connector](https://developers.tonhub.com/docs/tonhub-remote-connector).
-2. Create [session](https://developers.tonhub.com/docs/tonhub-remote-connector#starting-a-new-session) via connector.
-3. Get instalation link for your application from Tonhub [Link Generator](https://tonwhales.com/tools/link) or Sandbox [Link Generator](https://sandbox.tonwhales.com/tools/link). 
-4. Create [Local connector](https://developers.tonhub.com/docs/tonhub-local-connector) for operations when running as extension.
+1. Create a [Remote connector](https://developers.tonhub.com/docs/tonhub-remote-connector).
+2. Create a [session](https://developers.tonhub.com/docs/tonhub-remote-connector#starting-a-new-session) via connector.
+3. Get an instalation link for your application from the Tonhub [Link Generator](https://tonwhales.com/tools/link) or Sandbox [Link Generator](https://sandbox.tonwhales.com/tools/link). 
+4. Create a [Local connector](https://developers.tonhub.com/docs/tonhub-local-connector) for processing user's actions when running as an extension.
 5. Add the necessary [meta tags](https://github.com/Reveloper/TwhExt/edit/main/Doc%20short/Getting%20start.md#add-the-necessary-meta-tags-into-your-apps-head-section) into your app's head section
-6. Use session for request [transactions](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-transaction) or [signatures](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-signature).
+6. Use a session for request [transactions](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-transaction) or [signatures](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-signature).
 
 
 
@@ -35,12 +35,12 @@ See [Metadata headers](https://developers.tonhub.com/docs/metadata-headers) sect
 
 ## Generate a URL link to your app as Tonhub extension
 
-You can create links to your app as an Tonhub extension with [Tonhub Link Generator](https://developers.tonhub.com/docs/tonhub-link-generator). Also you can validate your metadata headers with this tool as it allows you to preview extension's: 
+You can create links to your app as a Tonhub extension with [Tonhub Link Generator](https://developers.tonhub.com/docs/tonhub-link-generator). In addition, you can validate your metadata headers with this tool as it allows you to preview extension's: 
 - Title
 - Description
 - Theme Color
 - Logo
 - Icon image 
-- Blurhash generated from image show before Image has loaded 
+- Blurhash (Image, wich generated from icon image show before Image has loaded) 
 
 <img width="919" alt="1 - gettingstarted" src="https://user-images.githubusercontent.com/39581753/179059354-c2656e9d-890c-4075-9f16-c7b09ced7680.png">
