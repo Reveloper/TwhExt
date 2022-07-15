@@ -24,7 +24,7 @@ See [Getting started](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/
 ## Use cases
 
 As a result, your app's extension will be available on Tonhub app's main screen in a list at any time. 
-Use cases with Tonhub extenstion:
+Use cases with Tonhub extension:
 
 
 - Sign and revoke media files such as text, pictures, and so on.
