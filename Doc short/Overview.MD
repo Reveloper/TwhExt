@@ -3,7 +3,7 @@
 ## Tonhub extension
 ***Tonhub extension*** is a feature that allow you to simply integrate your application into Tonhub app. Connect with our large and rapidly growing userbase.
 
-Basicly, you should use two things:
+Basicly, you should use the following:
 
 * Tonhub Connect for interaction with the user's wallet. 
 * Tonhub Link Generator for Tonhub extensions, wich genarates installation links.
