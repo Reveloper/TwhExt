@@ -41,6 +41,6 @@ You can create links to your app as a Tonhub extension with [Tonhub Link Generat
 - Theme Color
 - Logo
 - Icon image 
-- Blurhash (Image, which is generated from icon image shown before Image has loaded) 
+- Blurhash (Image, which is generated from icon image. Blurhash is shown before Image has loaded) 
 
 <img width="919" alt="1 - gettingstarted" src="https://user-images.githubusercontent.com/39581753/179059354-c2656e9d-890c-4075-9f16-c7b09ced7680.png">
