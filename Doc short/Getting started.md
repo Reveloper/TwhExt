@@ -6,7 +6,7 @@
 2. Create a [session](https://developers.tonhub.com/docs/tonhub-remote-connector#starting-a-new-session) via a connector.
 3. Get an installation link for your application from the Tonhub [Link Generator](https://tonwhales.com/tools/link) or Sandbox [Link Generator](https://sandbox.tonwhales.com/tools/link). 
 4. Create a [Local connector](https://developers.tonhub.com/docs/tonhub-local-connector) for processing users' actions when running as an extension.
-5. Add the necessary [meta tags](https://github.com/Reveloper/TwhExt/edit/main/Doc%20short/Getting%20start.md#add-the-necessary-meta-tags-into-your-apps-head-section) in your applications's head section.
+5. Add the necessary [meta tags](https://github.com/Reveloper/TwhExt/edit/main/Doc%20short/Getting%20start.md#add-the-necessary-meta-tags-into-your-apps-head-section) in your applications' head section.
 6. Use a session for request [transactions](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-transaction) or [signatures](https://developers.tonhub.com/docs/tonhub-remote-connector#requesting-signature).
 
 
