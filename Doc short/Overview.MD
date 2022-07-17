@@ -18,7 +18,8 @@ See [Getting started](https://github.com/Reveloper/TwhExt/blob/main/Doc%20short/
 3. The user follows the steps with sign agreements, donates and so on.
 4. The user gets your app in Tonhub's extensions list.
 
-![inst_user_flow_numbered](https://user-images.githubusercontent.com/39581753/179036305-cde12e06-f3cb-4cf0-a274-6c4554a7ad8b.png)
+![install_guide](https://user-images.githubusercontent.com/39581753/179422267-182e26a8-9492-43e4-a252-58cdcab4afbd.png)
+
 
 
 ## Use cases
