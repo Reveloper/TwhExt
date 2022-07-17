@@ -30,19 +30,21 @@ Use cases with Tonhub extension:
 
 - Sign and revoke media files such as text, pictures, e.t.c.
 
-![sing_case](https://user-images.githubusercontent.com/39581753/179424094-d24531f4-1176-42f3-be59-1a341c58cb5b.png)
+![sing_case_guide](https://user-images.githubusercontent.com/39581753/179424533-b9938f55-2f78-44b7-8016-068f7d6fc1d6.png)
+
 
 
 
 
 -  Make your custom transactions.
 
-![transaction_user_case](https://user-images.githubusercontent.com/39581753/179052390-2c801211-9656-4ff2-b0c9-32b9bf51a405.png)
+![sing_case](https://user-images.githubusercontent.com/39581753/179424216-570f0c18-f8a3-4ce8-94c3-629bf39b8232.png)
+
 
 
 
 - Display common information about your app in Tonhub.
-- Quick redirects the user from Tonhub to your app.
+- Quick redirect the user from Tonhub to your app.
 - Get and display the user's wallet address.
 
 ## Capabilities Example extension
