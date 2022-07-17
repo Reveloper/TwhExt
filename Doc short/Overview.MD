@@ -30,7 +30,8 @@ Use cases with Tonhub extension:
 
 - Sign and revoke media files such as text, pictures, e.t.c.
 
-![sign_user_case](https://user-images.githubusercontent.com/39581753/179052450-ff36666d-d610-47b1-94e4-57cfe314d4ae.png)
+![sing_case](https://user-images.githubusercontent.com/39581753/179424094-d24531f4-1176-42f3-be59-1a341c58cb5b.png)
+
 
 
 
